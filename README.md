@@ -78,13 +78,17 @@
 
 ### 1. Добавление категориальных признаков (+11% R²)
 Без категориальных:
+
 <img width="382" height="139" alt="image" src="https://github.com/user-attachments/assets/e5398fa1-55e4-460d-9c2f-3d3edad6e4ed" />
+
 С категориальными:
+
 <img width="384" height="171" alt="image" src="https://github.com/user-attachments/assets/c32b33ee-606a-4b76-8674-d8005e7a4caa" />
 
 
 ### 2. Feature Engineering
 Создание новых признаков ухудшило результаты моделей:
+
 <img width="395" height="178" alt="image" src="https://github.com/user-attachments/assets/c5cd98aa-54b5-48a5-bd74-67c2614cf3bf" />
 
 К сожалению, улучшить качество таким образом я не смог :(
