@@ -66,13 +66,23 @@
 
 # Результаты
 
-### Лучшая модель: Ridge на категориальных данных без feature engineering
+### Лучшая модель на R^2 и MSE: Ridge на категориальных данных без feature engineering
 - **R² на тесте**: 0.693
 - **MSE на тесте**: 1.763e+11
 
 ### Улучшение относительно базовой модели:
 - Улучшение MSE: с 2.302e+11 до 1.763e+11
 - Улучшение R²: с 0.599 до 0.693
+
+### Лучшая модель на бизнес-метриках: Lasso на категориальных данных + feature engineering
+- **Business metric**:
+
+<img width="533" height="189" alt="image" src="https://github.com/user-attachments/assets/0492da9e-978b-4b25-85b5-1b258facf7c7" />
+
+- **Custom business  metric**:
+
+<img width="396" height="187" alt="image" src="https://github.com/user-attachments/assets/10d780dc-6f2d-4592-8fc9-8ec65929dd32" />
+
 
 # Что дало наибольший буст в качестве
 
